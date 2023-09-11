@@ -14,3 +14,4 @@ week02
  git remote add origin https://github.com/cheolosp2023/test.git
  git remote –v
  git push -u origin main
+ git clone https://github.com/cheolosp2023/test.git
